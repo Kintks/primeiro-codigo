@@ -15,3 +15,6 @@ while chance > 0:
             print("Suas chances acabaram!")
     else:
         print("Tente novamente!")
+
+#O número que sera adivinhado é a variavel numero_secreto, é so mudar o valor para o numero de deseja.
+#Obs: é o meu primeiro codigo, se tiver algum erro, ou algo que possa melhorar, sera bem vindo um comentario.
